@@ -1,4 +1,5 @@
 # x-plane ADSB output
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE.txt)
 
 This project was small subset of the code I wrote for my undergraduate final
 year software project.
